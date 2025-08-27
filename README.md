@@ -1,7 +1,6 @@
 # Graduate Admission Prediction
 
 This project develops and evaluates machine learning models to predict a graduate applicant’s **Chance of Admit** based on profile features such as GRE, TOEFL, CGPA, University Rating, SOP, LOR, and Research experience.  
-The notebook walks through a **complete data analysis pipeline**: from problem definition and exploratory data analysis to modeling, evaluation, interpretability, and conclusions.
 
 ---
 
